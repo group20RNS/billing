@@ -31,6 +31,7 @@ export default class HomeScreen extends Component {
        <br></br>
 <h3 id="abutheading" style={{color: "darkmagenta"}}> Address:</h3>
 <br></br><p style={{color: "black"}}> #337, SAURABHA COMPLEX, 10th Main Rd, Nagendra Block, Banashankari Stage I, Bengaluru, Karnataka 560050</p>
+      <p style={{color: "black"}}>group 20 final project</p>
       
 
       </div>
