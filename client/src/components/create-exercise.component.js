@@ -16,7 +16,7 @@ export default class ExercisesList extends Component {
      <h4> </h4>
      <ReactPlayer url= "https://www.youtube.com/watch?v=p2uK_OwjwJw" controls={true} width="100%" height = "280px"/>
 
-     <br></br><p><b>Wish You Happy Married Life Anna (RAJESH BHAT) Attige (DIVYA)</b></p>
+     <br></br><p><b>group 20 final project</b></p>
 
       </div>
     );
